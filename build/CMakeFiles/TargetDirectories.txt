@@ -1,0 +1,6 @@
+/Users/ashy/Desktop/cse165Game/tetris/build/CMakeFiles/Tetris.dir
+/Users/ashy/Desktop/cse165Game/tetris/build/CMakeFiles/edit_cache.dir
+/Users/ashy/Desktop/cse165Game/tetris/build/CMakeFiles/rebuild_cache.dir
+/Users/ashy/Desktop/cse165Game/tetris/build/CMakeFiles/Tetris_autogen.dir
+/Users/ashy/Desktop/cse165Game/tetris/build/doc/CMakeFiles/edit_cache.dir
+/Users/ashy/Desktop/cse165Game/tetris/build/doc/CMakeFiles/rebuild_cache.dir

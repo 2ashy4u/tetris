@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+9557a6bbe05c105f0332279c93231fc6 CMakeFiles/Tetris_autogen
